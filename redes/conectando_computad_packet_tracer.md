@@ -10,5 +10,11 @@ Nomes dos três computadores: Manufatura, Acabamento e Embalagem. Dispositivo de
 
 ![image](https://github.com/re-na-ta/programa_desenvolve_boticario/assets/83365217/7d4173df-f4ce-462d-ae24-27b6c72cb9e9)
 
-2)
+2) Configurando IP Estático Manualmente
 
+![image](https://github.com/re-na-ta/programa_desenvolve_boticario/assets/83365217/1b4131f1-1b78-40d6-8cee-d2272129ab61)
+
+
+3) Testando a conectividade da rede
+
+![image](https://github.com/re-na-ta/programa_desenvolve_boticario/assets/83365217/62fedc3c-0ea3-4cfc-a156-142564370d4b)
